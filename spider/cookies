@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: bid=N_7SuWTayHA; path="/"; domain=".douban.com"; path_spec; domain_dot; expires="2018-09-13 01:51:35Z"; version=0
+Set-Cookie3: ll="\"118163\""; path="/"; domain=".douban.com"; path_spec; domain_dot; expires="2018-09-13 01:51:35Z"; version=0
+Set-Cookie3: ue="\"magekafka@gmail.com\""; path="/accounts"; domain=".douban.com"; domain_dot; expires="2018-09-13 01:51:36Z"; httponly=None; version=0
